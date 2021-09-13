@@ -77,8 +77,8 @@ contract Wojak is Context, Ownable, IERC20 {
       uint256 tSwap;
     }
 
-    //address payable public marketingWallet = payable(0x0b3Af6219e7fDC90E51B2449e007238C88202F93);
-    //address payable public rewardsWallet = payable(0xf97f828AE1CE2E936dC6A8B9181a89d028A730bd);
+    address payable public marketingWallet = payable(0x0b3Af6219e7fDC90E51B2449e007238C88202F93);
+    address payable public rewardsWallet = payable(0xf97f828AE1CE2E936dC6A8B9181a89d028A730bd);
     address public deadAddress = address(0x000000000000000000000000000000000000dEaD); 
     
     IRouter public pancakeRouter;
