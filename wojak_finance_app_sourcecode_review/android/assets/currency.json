@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "logo": "assets/images/symbols/BTC.png"
+  },
+  {
+    "id": 2,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "logo": "assets/images/symbols/ETH.png"
+  },
+  {
+    "id": 3,
+    "name": "Solana",
+    "symbol": "SOL",
+    "logo": "assets/images/symbols/SOL.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Ripple",
+    "symbol": "XRP",
+    "logo": "assets/images/symbols/XRP.png"
+  },
+  {
+    "id": 5,
+    "name": "Cardano",
+    "symbol": "ADA",
+    "logo": "assets/images/symbols/ADA.png"
+  },
+  {
+    "id": 6,
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "logo": "assets/images/symbols/DOT.png"
+  },
+  {
+    "id": 7,
+    "name": "Binance",
+    "symbol": "BNB",
+    "logo": "assets/images/symbols/BNB.png"
+  },
+  {
+    "id": 8,
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "logo": "assets/images/symbols/DOGE.png"
+  },
+  {
+    "id": 9,
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "logo": "assets/images/symbols/LTC.png"
+  },
+  {
+    "id": 10,
+    "name": "Tether",
+    "symbol": "USDT",
+    "logo": "assets/images/symbols/USDT.png"
+  }
+]
